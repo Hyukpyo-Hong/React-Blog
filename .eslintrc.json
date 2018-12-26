@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "airbnb"
+    ],
+    "parser": "babel-eslint",
+    "rules": {
+        "max-len": 0,
+        "linebreak-style": 0,
+        "react/jsx-one-expression-per-line": 0,
+        "prefer-promise-reject-errors":0
+    },
+    "globals": {
+        "localStorage": true,
+        "document": true,
+        "FormData":true
+    }
+}
