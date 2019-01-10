@@ -1,3 +1,3 @@
 export default {
-  apiUrl: "https://react-blog-api.bahdcasts.com/api"
+  apiUrl: 'https://5c173897bac6090013c89da6.mockapi.io/',
 };
